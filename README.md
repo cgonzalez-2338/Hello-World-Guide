@@ -1,2 +1,6 @@
-# Hello-World-Guide
-Deleted old one, redoing another one.
+# Hello-World
+
+Hello, I'm Christa
+
+I like video games, snacks, anime, and drawings.
+
